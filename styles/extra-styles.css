@@ -8,3 +8,7 @@
 .pokemon {
     background-image: url("../assets/pokemon-bg.jpg");
 }
+
+.min-w {
+    min-width: 530px;
+}

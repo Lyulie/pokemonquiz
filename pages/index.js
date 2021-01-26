@@ -31,7 +31,9 @@ export default function Home() {
   return (
     <div className="
     container
-    mx-20 my-20
+    mx-40 sm:mx-auto
+    mt-20
+    max-w-sm
     ">
       <div className="
       flex-col
@@ -55,7 +57,6 @@ export default function Home() {
         </Header>
 
         <main className="
-        grid-row
         h-full
         px-6
         pt-6

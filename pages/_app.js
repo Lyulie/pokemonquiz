@@ -11,8 +11,9 @@ function MyApp({ Component, pageProps }) {
     w-screen
     h-screen
     pokemon bg-cover no-repeat
+    justify-center
     ">
-      <GitHubCorner />
+      <GitHubCorner className="z-50"/>
       <Component {...pageProps} />
     </div>
   )
