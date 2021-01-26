@@ -1,0 +1,10 @@
+.fixed-w {
+    width: 350px;
+}
+.inner-w {
+    width: 300px;
+}
+
+.pokemon {
+    background-image: url("../assets/pokemon-bg.jpg");
+}
